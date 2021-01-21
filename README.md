@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **slaydenriley/slaydenriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a student at Flatiron School, learning Ruby on Rails, HTML/CSS/Javascript, and React/Redux
-# Currently searching for work in web development
-# When I'm not coding, you'll find me in the woods: skiing, hiking, camping, fly-fishing, or climbing.
+I'm a student at Flatiron School, learning Ruby on Rails, HTML/CSS/Javascript, and React/Redux
+Currently searching for work in web development
+When I'm not coding, you'll find me in the woods: skiing, hiking, camping, fly-fishing, or climbing.
