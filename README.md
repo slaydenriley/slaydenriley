@@ -1,4 +1,4 @@
-## Hi there, I'm Riley. 🌲
+## Hi there, I'm Riley. 👨‍💻
 
 - 💻 I'm a student at Flatiron School, learning Ruby on Rails, HTML/CSS/Javascript, and React/Redux
 - 🛠 Currently searching for work in web development 📞
