@@ -4,7 +4,7 @@
 - 🛠 Currently searching for work in web development or software engineering!
 - 🌲 When I'm not coding, you'll find me in the woods: ⛷ skiing, ⛰ hiking, 🏕 camping, 🎣 fly-fishing, or 🧗‍♀️ climbing. 
 
-CONTACT:
+<u>CONTACT</u> <br/>
 👨‍💻 [LinkedIn](https://linkedin.com/in/rileyslayden) <br/>
 ‍💻 [Portfolio](https://www.rileyslayden.com) <br/>
 📧 Email: slaydenriley@gmail.com
