@@ -6,6 +6,6 @@
 - Or, I'll be playing the banjo 🪕.
 
 ### CONTACT
-👨‍💻| [LinkedIn](https://linkedin.com/in/rileyslayden) <br/>
-‍💻 | [Portfolio](https://www.rileyslayden.com) <br/>
+👨‍💻 | [LinkedIn](https://linkedin.com/in/rileyslayden) <br/>
+‍💻  | [Portfolio](https://www.rileyslayden.com) <br/>
 📧 | slaydenriley@gmail.com
